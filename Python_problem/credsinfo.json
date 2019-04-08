@@ -1,8 +1,0 @@
-{"consumer_key": "pDzrvkuuvdY4VbiY0Ki5ZKc2R", "consumer_secret": "KfNabg5jaISzZbkjZ1aYgFw7LFE8Js1wsLAa9hVH8Uund11uIH", "access_token": "144574952-sbza1XsfCjEFKmyQNLTgvm7tNNcB80drgM3dalGP", "access_token_secret": "OJXMcdHoBjvIypTukF0E86n2EHvoPJhc7sX6Pc8nd0ExM"}
-
-api_creds = {
-    'consumer_key':'pDzrvkuuvdY4VbiY0Ki5ZKc2R',
-    'consumer_secret':'KfNabg5jaISzZbkjZ1aYgFw7LFE8Js1wsLAa9hVH8Uund11uIH',
-    'access_token':'144574952-sbza1XsfCjEFKmyQNLTgvm7tNNcB80drgM3dalGP',
-    'access_token_secret':'OJXMcdHoBjvIypTukF0E86n2EHvoPJhc7sX6Pc8nd0ExM'
-}
